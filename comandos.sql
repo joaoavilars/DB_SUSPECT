@@ -1,4 +1,4 @@
-# inicio do arquivo
+# inicio do arquivo.
 
 use master
 go 
